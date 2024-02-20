@@ -15,7 +15,7 @@ escrow_ignore {
 }
 shared_script {
 'config.lua',
-@ox_lib/init.lua}
+'@ox_lib/init.lua'}
 
 server_scripts {
     'server/main.lua'
